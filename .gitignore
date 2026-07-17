@@ -1,0 +1,31 @@
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual Environment
+
+venv/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# Cache
+
+.pytest_cache/
+.mypy_cache/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
