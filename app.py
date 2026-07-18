@@ -38,7 +38,7 @@ st.info(
 # Load Pipeline
 # -----------------------------------------------------
 
-pipeline = joblib.load("model/house_price_prediction_pipeline.pkl")
+pipeline = joblib.load("notebooks/house_price_prediction_pipeline.pkl")
 
 # -----------------------------------------------------
 # Sidebar Inputs
@@ -404,13 +404,8 @@ if predict :
 
     try:
 
-        # -----------------------------
-        # Make Prediction
-        # -----------------------------
-
         prediction = pipeline.predict(input_df)[0]
 
-        # Uncomment ONLY if you trained using log1p(SalePrice)
         prediction = np.expm1(prediction)
         
         st.markdown("---")
