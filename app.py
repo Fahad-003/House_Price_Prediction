@@ -23,7 +23,7 @@ trained on the Ames Housing Dataset.
 st.caption("📂 Dataset: ** Ames Housing Dataset ( 2930 Residential Properties )**")
 
 st.image(
-    "assets/house_banner.jpg",
+    "screenshots/house_banner.jpg",
     use_container_width=True
 )
 
