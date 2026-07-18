@@ -38,7 +38,7 @@ st.info(
 # Load Pipeline
 # -----------------------------------------------------
 
-pipeline = joblib.load("notebooks/house_price_prediction_pipeline.pkl")
+pipeline = joblib.load("model/house_price_prediction_pipeline.pkl")
 
 # -----------------------------------------------------
 # Sidebar Inputs
