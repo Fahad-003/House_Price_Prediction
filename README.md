@@ -1,10 +1,5 @@
 # 🏡 House Price Prediction using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-Regressor-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An end-to-end Machine Learning project that predicts residential house prices using the **Ames Housing Dataset**. The project includes data preprocessing, feature engineering, model comparison, hyperparameter tuning, and deployment using **Streamlit**.
 
@@ -12,10 +7,8 @@ An end-to-end Machine Learning project that predicts residential house prices us
 
 # 🚀 Project Links
 
-* **🌐 Live Demo:** *(Add your Streamlit app link here)*
-* **💻 GitHub Repository:** *(Add your GitHub repository link here)*
-* **📓 Jupyter Notebook:** `notebook/House_Price_Prediction.ipynb`
-* **📊 Dataset:** https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+* **🌐 Live Demo:** https://ames-house-price-predictor.streamlit.app/
+* **📊 Dataset:** https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/data
 
 ---
 
