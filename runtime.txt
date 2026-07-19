@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-python-3.13
-=======
-python-3.13
->>>>>>> 1da23f0 (Pin scikit-learn version for saved model compatibility)
